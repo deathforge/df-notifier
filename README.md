@@ -14,3 +14,5 @@ Most of these you will likely have already installed. If not, I'd recommend usin
 Sikuli has a .jar that can install on any platform.
 
 Once all of the dependencies have been installed, move the df-notifier.sikuli folder anywhere on your system, and run it with PATH-TO-SIKULI/sikuli-ide.exe -r df-notifier.sikuli
+
+note: you will also need to update the image as the resolution may throw it off
